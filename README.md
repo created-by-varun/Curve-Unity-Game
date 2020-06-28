@@ -4,7 +4,7 @@
 Hyper casual game made in Unity.
 
 ## Download
-[<img src="/google-play-badge.png" width="25%" height="25%">](https://goo.net)
+[<img src="/google-play-badge.png" width="25%" height="25%">](https://to-be-added.com)
 
 
 ## Audio
