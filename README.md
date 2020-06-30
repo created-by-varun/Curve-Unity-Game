@@ -4,7 +4,8 @@
 Hyper casual game made in Unity.
 
 ## Download
-[<img src="/google-play-badge.png" width="25%" height="25%">](https://to-be-added.com)
+[<img src="/google-play-badge.png" width="25%" height="25%">](https://to-be-added.com)  
+Download from itch.io: https://varunv321.itch.io/curve
 
 
 ## Audio
